@@ -10,7 +10,7 @@ A study guide was created to realize the goals below.
 - As an aid to organizing and reviewing new concepts.
 - Introduced to HTML, CSS, git navigation, and Javascript.
 
-## Table of Contents (Optional)
+## Table of Contents
 
 Your site is live at https://dale2k.github.io/prework-study-guide/
 
