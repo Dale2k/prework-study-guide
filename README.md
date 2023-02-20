@@ -12,7 +12,7 @@ A study guide was created to realize the goals below.
 
 ## Table of Contents (Optional)
 
-N/A
+Your site is live at https://dale2k.github.io/prework-study-guide/
 
 ## Installation
 
