@@ -21,24 +21,7 @@ function selectTopic() {
   }
 }
 
-/* function selectTopic() {
-  if (topics === "HTML") {
-    console.log("Let's study HTML!");
-  } else if (topics === "CSS") {
-    console.log("Let's study CSS!");
-  } else if (topics === "Git") {
-    console.log("Let's study Git!");
-  } else if (topics === "JavaScript") {
-    console.log("Let's study JavaScript!");
-  } else {
-    console.log("Please try again!");
-  }
-}
-
-// The last line output is "Please try again"
-*/
-
 console.log("here are the topis we learned in Prework");
 listTopics();
-console.log("Which topic should we study first");
+console.log("Which topic should we study first?");
 selectTopic();
