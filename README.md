@@ -14,6 +14,8 @@ A study guide was created to realize the goals below.
 
 Your site is live at https://dale2k.github.io/prework-study-guide/
 
+Github repoitory https://github.com/dale2k/prework-study-guide/
+
 ## Installation
 
 N/A
